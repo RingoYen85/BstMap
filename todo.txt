@@ -1,0 +1,12 @@
+1) Private BstNode class
+2) Constructors for the BstNode class (trivial and non trivial)
+3) default constructor for BstMap class
+4) non-trivial constructor for BstMap Class
+5) copy constructor for BstMap
+6) assignment operator for BstMap
+7) destructor for BstMap
+8) add method
+9) lookup method
+10) remove method
+11) findmin function
+12) 
